@@ -44,7 +44,9 @@
     color: black;
     font-size: 18px;
 }
-
+.navlist a:hover{
+    transition: 2px, solid,blue,0.5s;
+}
 .hamburger {
     display: none;
     cursor: pointer;
